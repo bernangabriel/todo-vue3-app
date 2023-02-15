@@ -1,0 +1,8 @@
+{
+  "arrowParens": "always",
+  "htmlWhitespaceSensitivity": "ignore",
+  "printWidth": 80,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "useTabs": false
+}
